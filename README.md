@@ -1,5 +1,4 @@
 # Major_Project_files
-<img src="Media/banner.jpeg"></img>
 
 <h3>
 <p align="center">
